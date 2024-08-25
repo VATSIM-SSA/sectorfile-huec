@@ -1,0 +1,15 @@
+# File Type Exclusions
+*.prf
+*.ese
+*.sct
+*.rwy
+*.pdf
+
+# Folder Exclusions
+HUEC/Alias/*
+HUEC/NavData/*
+HUEC/ICAO/*
+HUEC/Sounds/*
+
+# File Exclusions
+*aeronav_copyright.txt

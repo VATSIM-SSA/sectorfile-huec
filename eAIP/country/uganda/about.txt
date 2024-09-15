@@ -1,6 +1,8 @@
 ===== Uganda Information =====
 
-Uganda, officially the Republic of Uganda, is a landlocked country in East Africa. The country is bordered to the east by [[country:kenya|Kenya]], to the north by South Sudan, to the west by the [[congo_democratic_republic|Democratic Republic of the Congo]], to the south-west by [[rwanda|Rwanda]], and to the south by [[tanzania|Tanzania]]. The southern part of the country includes a substantial portion of Lake Victoria, shared with Kenya and Tanzania. Uganda is in the African Great Lakes region. Uganda also lies within the Nile basin and has a varied but generally a modified equatorial climate. It has a population of around 49 million, of which 8.5 million live in the capital and largest city of Kampala.
+Uganda, officially the Republic of Uganda, is a landlocked country in East Africa. The country is bordered to the east by [[country:kenya:home|Kenya]], to the north by South Sudan, to the west by the [[country:congo-dr:home|Democratic Republic of the Congo]], to the south-west by [[country:rwanda:home|Rwanda]], and to the south by [[country:tanzania:home|Tanzania]]. 
+
+The southern part of the country includes a substantial portion of Lake Victoria, shared with Kenya and Tanzania. Uganda is in the African Great Lakes region. Uganda also lies within the Nile basin and has a varied but generally a modified equatorial climate. It has a population of around 49 million, of which 8.5 million live in the capital and largest city of Kampala.
 
 For more information, please visit [[https://en.wikipedia.org/wiki/Uganda|Wikipedia]]. 
 

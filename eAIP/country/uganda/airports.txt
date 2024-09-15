@@ -1,8 +1,8 @@
 ==== Uganda Airports ====
 
-^ ICAO                  ^ Name          ^ City          ^ Status         ^ Remarks  ^
-| [[airport:huen|HUEN]] | Entebbe Intl  | Entebbe       | In Development | -        |
-| [[airport:huso|HUSO]] | Soroti        | Soroti        | In Development | -        |
+^ ICAO                        ^ Name          ^ City          ^ Status         ^ Remarks  ^
+| [[airport:huen:home|HUEN]]  | Entebbe Intl  | Entebbe       | In Development | -        |
+| [[airport:huso:home|HUSO]]  | Soroti        | Soroti        | In Development | -        |
 
 
 

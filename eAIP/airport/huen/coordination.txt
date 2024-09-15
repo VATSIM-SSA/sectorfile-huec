@@ -1,0 +1,13 @@
+===== HUEN Coordination =====
+
+===== Cross Africa =====
+The specific flight levels that handoffs will occur between Approach and Centre is as follows:
+
+  * Departing (FL140)
+  * Arriving (FL150)
+
+All arriving aircraft should be FL150 by the first arrival fix, with arriving aircraft ideally handed off before the arriving point.
+
+Any directs or further initial climb requests should be coordinated. In all ideal situations, it should be recommended that all departing and arriving aircraft are kept on the SID/STAR procedure, and managed my speed and altitude, and only taken off if needed for separation purposes.
+
+{{page>hu-footer#HUEN}}

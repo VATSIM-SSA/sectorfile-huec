@@ -1,0 +1,57 @@
+===== HUEN Approach =====
+
+===== Arrival Procedures =====
+^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach ^ Remarks ^
+| 17    | APNAD | APNAD1A | Conventional  | 80 nm         | ILS / RNP via UVDEK | - |
+| ::: | BETAF | BETAF1A | ::: | 71 nm | ILS / RNP via ETKUL | - |
+| ::: | IMPOG | IMPOG1A | ::: | 53 nm | ::: | - |
+| ::: | IMVIP | IMVIP1A | ::: | 44 nm | ::: | - |
+| ::: | MANDY | MANDY1A | ::: | 68 nm | ILS / RNP via UVDEK | - |
+| ::: | OKSUM | OKSUM1A | ::: | 70 nm | ILS / RNP via ETKUL | - |
+| ::: | SEZIM | SEZIM1A | ::: | 51 nm | ILS / RNP via AVEXO | - |
+| ::: | UVBAX | UVBAX1A | ::: | 40 nm | ::: | - |
+| 35 | APNAD | APNAD1C | ::: | 37 nm | RNP via AVAMA | - | 
+| ::: | BETAF | BETAF1C | ::: | 44 nm | RNP via EPMIS | - |
+| ::: | IMPOG | IMPOG1C | ::: | 47 nm | ::: | - |
+| ::: | IMVIP | IMVIP1C | ::: | 65 nm | ::: | - |
+| ::: | MANDY | MANDY1C | ::: | 43 nm | RNP via GESEM | - |
+| ::: | OKSUM | OKSUM1C | ::: | ::: | RNP via EPMIS | - |
+| ::: | SEZIM | SEZIM1C | ::: | 71 nm | RNP via GESEM | - |
+| ::: | UVBAX | UVBAX1C | ::: | 82 nm | ::: | - |
+
+===== Approach Procedures =====
+^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 17 | ILS Y | 110.70 EL | 170º | 3.00º | 6.2 DME EL | 5800ft | - |
+| ::: | ILS Z | ::: | ::: | ::: | EXEDO | - |
+| ::: | RNP | - | ::: | 3.10º | IBSET | ::: | - |
+| ::: | VOR | - | ::: | 3.03º | 6.2 DME NN | ::: | - | 
+| 35 | RNP | - | 350º | 3.10º | UTSAS | ::: | - |
+| ::: | VOR | - | ::: | 3.00º | 8 DME NN | ::: | - |
+
+==== Holds ====
+^ Name  ^ Approach ^ Altitude ^ Speed (IAS) ^ Inbound CRS ^ Turn ^ Remarks ^
+| UVDEK | ILS Y/Z & RNP | FL100 | 230 KT | 116º | Left | - |
+| ETKUL | ILS Y/Z & RNP | ::: | ::: | 224º | ::: | - |
+| EPMIS | RNP | ::: | ::: | 300º | Right | - |
+
+==== Missed Approach Procedure ====
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 17 | ILS Y | Climb on 116º to D5.0 NN, then turn left heading 080º to intercept R-120 NN, at ANTET enter the hold at FL80 or above | ANTET | - | 
+| ::: | ILS Z | Climb on 170º to AVEBI, then turn left to ANTET and hold at FL80 or above | ::: | - |
+| ::: | RNP | ::: | ::: | - |
+| ::: | VOR | Climb on 116º to D5.0 NN, then turn left heading 080º to intercept R-120 NN, at ANTET enter the hold at FL80 or above | ANTET | - |
+| 35 | RNP | Climb on 350º to EVEKO, turn left to EGNEX and hold at FL80 | EGNEX | - |
+| ::: | VOR | Climb on R-351 to D5.0, then turn left heading 270 to intercept R-296. At EGNEX hold FL80 or above | ::: | - |
+
+==== MSA and MRVA ====
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| NN | 0 nm | 25 nm | 000º | 359º | 6000ft | - |
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| HRYR | Kigali International Airport | 211nm | 3500m | - |
+| HKKI | Kisumu International Airport | 158nm | 3300m | - |
+| HKEL | Eldoret International Airport | 195nm | 3475m | - |
+
+{{page>hu-footer#HUEN}}

@@ -1,0 +1,19 @@
+===== HUEN Ground =====
+
+==== Push-back Procedures ====
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+^ Apron     ^ Type              ^ Facing  ^ Remarks ^
+| Apron 1   | Main Terminal / Remote  | North or South | - |
+| Apron 2   | VIP Terminal  | West | - |
+| Apron 3   | General Aviation  | - | - |
+| Apron 4   | :::  | - | - |
+
+
+
+{{page>hu-footer#HUEN}}

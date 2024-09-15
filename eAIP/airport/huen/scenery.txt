@@ -1,0 +1,9 @@
+===== HUEN Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| MSFS 2020     | Freeware (Standard Edition) | Asobo | Default | - |
+| XP11      | Freeware | Kwesi Mensah | [[https://forums.x-plane.org/index.php?/files/file/75945-entebbe-international-airport-–-uganda/|Scenery]] | - |
+
+
+
+{{page>hu-footer#HUEN}}

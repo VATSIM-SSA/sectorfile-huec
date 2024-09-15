@@ -1,0 +1,9 @@
+===== HUEC Entebbe Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#HUEC}}
+
+
+{{page>hu-footer#HUEC}}

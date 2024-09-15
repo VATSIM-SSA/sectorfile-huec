@@ -1,0 +1,8 @@
+===== HUEN Charts =====
+
+Unfortunately, Uganda does not provide publicly accessible navigational charts for its airspace or airports.
+
+So, the most we can do at this point is to offer you a link to Google's [[https://www.google.com/search?q=HUEN+Charts|Search Results]].
+
+
+{{page>hu-footer#HUEN}}

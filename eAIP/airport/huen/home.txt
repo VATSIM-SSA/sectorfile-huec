@@ -1,0 +1,6 @@
+===== HUEN | Entebbe Intl | Entebbe, Uganda =====
+
+{{tabembed>about|About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing}}
+
+
+{{page>hu-footer#Uganda}}

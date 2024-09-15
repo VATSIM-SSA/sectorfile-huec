@@ -1,16 +1,16 @@
 ==== Uganda ====
 ----
 
-//This page is a subsection of the [[Uganda]] country page.//
+//This page is a subsection of the [[country:ughanda|Uganda]] country page.//
 
 ==== HUEC ====
 
 ----
 
-[[HUEC]] Entebbe FIR | v0.1
+[[airspace:huec|HUEC]] Entebbe FIR | v0.1
 
 ==== HUEN ====
 
 ----
 
-[[HUEN]] Entebbe Intl | v0.1 | [[HUEC]] Entebbe FIR
+[[airport:huen|HUEN]] Entebbe Intl | v0.1 | [[airspace:huec|HUEC]] Entebbe FIR

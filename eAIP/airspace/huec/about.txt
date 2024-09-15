@@ -1,6 +1,6 @@
 ===== HUEC Entebbe Flight Information Region =====
 
-  * The Entebbe FIR covers the entirety of [[Uganda]]'s borders.
+  * The Entebbe FIR covers the entirety of [[country:uganda|Uganda]]'s borders.
 
 ==== Airport Coverage ====
 
@@ -8,6 +8,6 @@ Entebbe covers the following airports:
 
 === Uganda ===
 
-{{page>uganda-airports#Uganda Airports}}
+{{page>country:uganda:airports#Uganda Airports}}
 
 {{page>hu-footer#HUEC}}

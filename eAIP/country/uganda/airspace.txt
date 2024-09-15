@@ -1,7 +1,7 @@
 ==== Uganda Airspace ====
 
-^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
-| HUEC | Entebbe | [[HUEC]] | -       | - |
+^ ICAO ^ Name    ^ SSA Code               ^ Type    ^ Remarks ^
+| HUEC | Entebbe | [[airspace:huec|HUEC]] | -       | -       |
 
 
 

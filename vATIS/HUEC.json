@@ -1,6 +1,8 @@
 {
-	"Name": "HUEC Entebbe FIR v2",
-	"Composites": [
+	"Name": "HUEC Entebbe FIR v3",
+	"updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-huec/refs/heads/main/vATIS/HUEC.json",
+	"updateSerial": 2025061201,
+	"stations": [
 		{
 			"Name": "Entebbe Intl",
 			"Identifier": "HUEN",

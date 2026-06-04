@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<CDM>
+	<rate ops="26" />
+	<rateLvo ops="14" />
+	<expiredCtot time="30" />
+	<realMode mode="true" />
+	<pilotTobt mode="false" />
+	<autoAtot mode="true" />
+	<invalidateAtTsat mode="true" />
+	<invalidateAtTobt mode="true" />
+	<Rates url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HUEC/rate.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HUEC/taxizones.txt" />
+	<Ctot url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HUEC/CTOT.txt" />
+	<sidInterval url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HUEC/sidinterval.txt" />
+	<DefaultTaxiTime minutes="5" />
+	<DeIceTimes light="5" medium="9" heavy="12" super="15"/>
+	<DeIceRemTaxi rem1="0" rem2="0" rem3="0" rem4="0" rem5="0"/>
+	<RefreshTime seconds="10" />
+	<Debug mode="false" />
+	<FlowRestrictions url="" />
+	<vdgsFileType type="3"/>
+	<ftpHost host="" />
+	<ftpUser user="" />
+	<ftpPassword password="" />
+	<sftpConnection mode="false" />
+	<Server mode="true" />
+	<Su_Wait mode="false" />
+</CDM>
